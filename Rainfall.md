@@ -2,7 +2,7 @@
 
 ![](https://neo.gsfc.nasa.gov/servlet/RenderData?si=1885595&cs=rgb&format=JPEG&width=720&height=360)
 
-## About this dataset ([cite from NASA](https://neo.gsfc.nasa.gov/view.php?datasetId=GPM_3IMERGM))
+## About this dataset ([cited from NASA](https://neo.gsfc.nasa.gov/view.php?datasetId=GPM_3IMERGM))
 
 Water is essential to our planet and is a key component for transporting heat throughout the ocean and atmosphere. Fresh water also is vital for supporting life. Precipitation as a source of fresh water links Earth’s water and energy cycles. Thus, knowing when, where, and how precipitation falls is of paramount importance for science and society.
 
